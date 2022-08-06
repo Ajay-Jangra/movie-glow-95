@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "movie-glow-95ead",
+    "build": "movie-glow-95ead"
+  },
+  "targets": {}
+}
